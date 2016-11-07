@@ -2,7 +2,7 @@ test-setup:
 	echo 'test setup'
 
 test:
-	echo 'test'
+	exit 1
 
 on-success:
 	echo 'on success'
